@@ -32,10 +32,4 @@ b.	https://www.ndbc.noaa.gov/data/realtime2/VCAT2.txt
 c.	https://www.ndbc.noaa.gov/data/realtime2/FMOA1.txt
 
 
-Non-Monetary Prizes:
-Each member of the winning team will get a $100 Amazon gift card.
-Additional Resources:
-●	You can add more platforms from https://www.ndbc.noaa.gov/
-●	Extra credits for teams that will be accessing the data directly from the web instead of downloading and storing them locally
-●	You can use dashboarding tools like streamlit, plotly, jupyterlab
-●	If the data is not available display appropriate messages
+
