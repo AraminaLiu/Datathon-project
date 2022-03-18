@@ -1,4 +1,7 @@
 # Datathon-project
+
+Project was posted here with a video description: https://devpost.com/software/cognite-track-datathon
+
 Problem Description:
 
 National Data Buoy Center (https://www.ndbc.noaa.gov/) stores meteorological data from various stations in the oceans. These stations are in strategic locations close to offshore oil and gas platforms and the data obtained from these stations are extremely important to understand the various conditions an offshore platform experiences. In this challenge you will build an interactive dashboard where you will enter the name of the station and will be able to retrieve the wind speed and wind direction at that station for the past 45 days.
